@@ -75,7 +75,7 @@ with open('Rivens.md', 'w') as out:
 		out.write('## Disposition %s\n\n' % x)
 		out.write('''|Weapon | Type | Total DPS | Trigger | Hit Damage | Fire Rate| Magazine|\n--- | --- | --- | --- | --- | --- | ---\n''')
 		for o in filter(lambda y: y['disposition'] == x, ordered):
-			out.write('[%s](%s)|%s|%s|%s|%s|%s|%s|%s\n' %
+			out.write('[%s](%s)|%s|%s|%s|%s|%s|%s\n' %
 					  (o['name'], o['wikiaUrl'], o['type'] or 'Unknown', round(o['damagePerSecond']), o['trigger'], o['totalDamage'], round(o['fireRate'], 2), o['magazineSize']) )
 		out.write('\n\n')
 
