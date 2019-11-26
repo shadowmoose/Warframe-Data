@@ -16,7 +16,6 @@ bkup = requests.get(backup).text
 bkup = bkup.split('WeaponData =')[1].split('return WeaponData')[0].strip()
 backup = {}
 
-print(lua.decode(bkup)['Weapons'])
 
 for k, v in lua.decode(bkup)['Weapons'].items():
 	key = html.unescape(k).lower()
@@ -43,7 +42,6 @@ for s in stats:
 	print(s, end=' - ')
 	print(all(s in w for w in weapons))
 
-print(backup.keys())
 
 for o in weapons:
 	# Some of the API data is missing valid DPS numbers, so correct them using the wiki.
