@@ -32,6 +32,8 @@ jobs:
         git checkout --orphan data
         git rm -rf .
         date >> ./Updated.md
+        echo "warframe.rofl.wtf" >> CNAME
+        echo "theme: jekyll-theme-hacker" >> _config.yml
         git add --all
         git commit -m "Automatically update the list" -a
         
