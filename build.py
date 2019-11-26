@@ -71,7 +71,7 @@ for o in weapons:
 
 ordered = sorted(weapons, key=lambda x: (x['disposition'], x['damagePerSecond'], len(x['name'])), reverse=True)
 
-with open('README.md', 'w') as out:
+with open('Rivens.md', 'w') as out:
 	for x in range(max(t['disposition'] for t in ordered), 0, -1):
 		out.write('## Disposition %s\n' % x)
 		out.write('''Weapon | Type | Disp. | Total DPS | Trigger | Hit Damage | Fire Rate| Magazine\n--- | --- | --- | --- | --- | --- | --- | ---\n''')
