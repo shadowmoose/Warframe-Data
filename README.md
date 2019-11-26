@@ -7,4 +7,4 @@ __Quick Links:__
 
 Currently, it builds a list of Weapons and their Riven Mod Dispositions. Happy farming.
 
-This project makes extensive use of data from the Warframe Community Wiki, as well as the data so kindly compiled by [WFCD/warframe-items](https://github.com/WFCD/warframe-items).
+*This project makes extensive use of data from the Warframe Community Wiki, as well as the data so kindly compiled by [WFCD/warframe-items](https://github.com/WFCD/warframe-items).*
