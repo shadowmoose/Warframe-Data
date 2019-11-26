@@ -25,18 +25,17 @@ jobs:
 
     - name: Build Branch
       run: |
-        ls -la
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git checkout --orphan test
+        git checkout --orphan data
         git rm -rf .
-        date >> ./test.txt
+        date >> ./Updated.md
         git add --all
-        git commit -m "test commit" -a
+        git commit -m "Automatically update the list" -a
         
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         force: true
-        branch: test
+        branch: data
