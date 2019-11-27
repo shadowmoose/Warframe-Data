@@ -79,6 +79,6 @@ with open('Rivens.md', 'w') as out:
 			out.write('[%s](%s)|%s|%s|%s|%s|%s|%s\n' %
 					  (o['name'], o['wikiaUrl'], o['type'] or 'Unknown', round(o['damagePerSecond']), o['trigger'], o['totalDamage'], round(o['fireRate'], 2), o['magazineSize']) )
 		out.write('\n\n')
-	out.write('__Generated on:__ %s UTC' % datetime.now(timezone.utc).strftime("%Y/%m/%d, %H:%M:%S"))
+	out.write('__Updated:__ %s UTC' % datetime.now(timezone.utc).strftime("%Y-%m-%d, %H:%M:%S"))
 
 print('Built weapon table.')
