@@ -34,7 +34,6 @@ jobs:
         git checkout --orphan data
         git rm -rf .
         date > ./Updated.md
-        date >> Rivens.md
         echo "warframe.rofl.wtf" > CNAME
         echo "theme: jekyll-theme-slate" > _config.yml
         echo "[Riven list](./Rivens)" > index.md
