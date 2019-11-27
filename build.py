@@ -1,6 +1,7 @@
 import requests
 from slpp import slpp as lua
 import html
+from datetime import datetime, timezone
 
 
 url = 'https://raw.githubusercontent.com/WFCD/warframe-items/development/data/json/All.json'
@@ -78,5 +79,6 @@ with open('Rivens.md', 'w') as out:
 			out.write('[%s](%s)|%s|%s|%s|%s|%s|%s\n' %
 					  (o['name'], o['wikiaUrl'], o['type'] or 'Unknown', round(o['damagePerSecond']), o['trigger'], o['totalDamage'], round(o['fireRate'], 2), o['magazineSize']) )
 		out.write('\n\n')
+	out.write('__Generated on:__ %s' % datetime.now(timezone.utc).strftime("%Y%m%d"))
 
 print('Built weapon table.')
