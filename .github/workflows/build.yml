@@ -33,11 +33,11 @@ jobs:
         git config --local user.name "GitHub Action"
         git checkout --orphan data
         git rm -rf .
-        date >> ./Updated.md
-        echo "warframe.rofl.wtf" >> CNAME
-        echo "theme: jekyll-theme-slate" >> _config.yml
-        echo "[Riven list](./Rivens)" >> index.md
-        echo "\n\n__Updated on:__ ${date}" >> Rivens.md
+        date > ./Updated.md
+        date >> Rivens.md
+        echo "warframe.rofl.wtf" > CNAME
+        echo "theme: jekyll-theme-slate" > _config.yml
+        echo "[Riven list](./Rivens)" > index.md
         git add --all
         git commit -m "Automatically update the list" -a
         
