@@ -37,6 +37,7 @@ jobs:
         echo "warframe.rofl.wtf" >> CNAME
         echo "theme: jekyll-theme-slate" >> _config.yml
         echo "[Riven list](./Rivens)" >> index.md
+        echo "\n\n__Updated on:__ ${date}" >> Rivens.md
         git add --all
         git commit -m "Automatically update the list" -a
         
