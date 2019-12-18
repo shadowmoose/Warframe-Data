@@ -59,11 +59,11 @@ for o in weapons:
 				dmg = 0
 				for k, v in bk[at]['Damage'].items():
 					dmg += v
-				dmg = round(dmg)
+				dmg = round(dmg, 2)
 				rate = o['fireRate']
 				if 'FireRate' in bk[at]:
 					rate = bk[at]['FireRate']
-				o['totalDamage'] = dmg
+				o['totalDamage'] = round(dmg)
 				o['fireRate'] = rate
 				o['damagePerSecond'] = round(rate*dmg)
 				break
