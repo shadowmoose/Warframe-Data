@@ -1,4 +1,4 @@
-# Warframe Dispositions
+# Riven Dispositions
 
 ## Disposition 5
 
@@ -436,4 +436,4 @@
 [Amprex](http://warframe.fandom.com/wiki/Amprex)|Rifle|21|Held|22|12.0|100
 
 
-__Updated:__ 2019-12-18, 06:11:52 UTC
+__Updated:__ 2019-12-18, 06:12:23 UTC
