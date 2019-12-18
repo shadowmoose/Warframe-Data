@@ -31,14 +31,14 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git checkout --orphan data
+        git checkout --track origin/gh-pages || git checkout --orphan gh-pages
         git rm -rf .
         date > ./Updated.md
         echo "warframe.rofl.wtf" > CNAME
         echo "theme: jekyll-theme-slate" > _config.yml
         echo "[Riven list](https://github.com/shadowmoose/Warframe-Data/blob/gh-pages/Rivens.md)" > index.md
         git add --all
-        git commit -m "Automatically update the list" -a
+        git commit -m "Automatically update the list $(date)" -a
         
     - name: Push changes
       uses: ad-m/github-push-action@master
