@@ -3,7 +3,7 @@
 This is an automated repo of Warframe Data. The data here is rebuild daily, and can be seen over at https://github.com/shadowmoose/Warframe-Data/tree/gh-pages/.
 
 __Quick Links:__
-- [Riven Dispositions](https://github.com/shadowmoose/Warframe-Data/tree/gh-pages/Rivens.md)
+- [Riven Dispositions](https://warframe.rofl.wtf/Rivens)
 
 Currently, it builds a list of Weapons and their Riven Mod Dispositions. Happy farming.
 
