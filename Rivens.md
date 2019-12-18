@@ -127,7 +127,7 @@
 [Mk1-Furax](http://warframe.fandom.com/wiki/MK1-Furax)|Fist|90|Melee|90|1|0
 [Dual Zoren](http://warframe.fandom.com/wiki/Dual_Zoren)|Dual Swords|82|Melee|70|1.17|0
 [Penta](http://warframe.fandom.com/wiki/Penta)|Launcher|75|Active|75|1|5
-[Deth Machine Rifle Prime](http://warframe.fandom.com/wiki/Deth_Machine_Rifle_Prime)|Rifle|70|Auto|7|10.0|100
+[Deth Machine Rifle Prime](http://warframe.fandom.com/wiki/Deth_Machine_Rifle_Prime)|Rifle|71|Auto|7|10.0|100
 [Dual Toxocyst](http://warframe.fandom.com/wiki/Dual_Toxocyst)|Dual Pistols|63|Semi|75|1|12
 [Gorgon Wraith](http://warframe.fandom.com/wiki/Gorgon_Wraith)|Rifle|59|Auto|27|13.33|90
 [Kohm](http://warframe.fandom.com/wiki/Kohm)|Shotgun|56|Auto|30|3.67|245
@@ -436,4 +436,4 @@
 [Amprex](http://warframe.fandom.com/wiki/Amprex)|Rifle|21|Held|22|12.0|100
 
 
-__Updated:__ 2019-12-18, 06:16:31 UTC
+__Updated:__ 2019-12-18, 06:19:00 UTC
