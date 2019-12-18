@@ -27,23 +27,10 @@ jobs:
         pip install -r requirements.txt
         python build.py
 
-    - name: Build Branch
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git checkout --track origin/gh-pages || git checkout --orphan gh-pages
-        git rm -rf .
-        mv ../Rivens.md ./Rivens.md
-        date > ./Updated.md
-        echo "warframe.rofl.wtf" > CNAME
-        echo "theme: jekyll-theme-slate" > _config.yml
-        echo "[Riven list](https://github.com/shadowmoose/Warframe-Data/blob/gh-pages/Rivens.md)" > index.md
-        git add --all
-        git commit -m "Automatically update the list $(date)" -a
-        
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        force: true
-        branch: gh-pages
+    - name: Deploy to gh-pages branch
+      uses: peaceiris/actions-gh-pages@v2.1.0
+      env:
+        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./data
+
