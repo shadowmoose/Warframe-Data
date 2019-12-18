@@ -1,2 +1,4 @@
+_[Project Home](https://github.com/shadowmoose/Warframe-Data)_
 
-[Riven list](./Rivens.md)
+## Resources:
+[Riven list](./Rivens)
