@@ -71,7 +71,7 @@ for o in weapons:
 ordered = sorted(weapons, key=lambda x: (x['disposition'], x['damagePerSecond'], len(x['name'])), reverse=True)
 
 with open('./data/Rivens.md', 'w') as out:
-	out.write('# Warframe Dispositions\n\n')
+	out.write('# Riven Dispositions\n\n')
 	for x in range(max(t['disposition'] for t in ordered), 0, -1):
 		out.write('## Disposition %s\n\n' % x)
 		out.write('''|Weapon | Type | Total DPS | Trigger | Hit Damage | Fire Rate| Magazine|\n--- | --- | --- | --- | --- | --- | ---\n''')
