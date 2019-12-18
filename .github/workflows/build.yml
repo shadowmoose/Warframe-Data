@@ -33,6 +33,7 @@ jobs:
         git config --local user.name "GitHub Action"
         git checkout --track origin/gh-pages || git checkout --orphan gh-pages
         git rm -rf .
+        mv ../Rivens.md ./Rivens.md
         date > ./Updated.md
         echo "warframe.rofl.wtf" > CNAME
         echo "theme: jekyll-theme-slate" > _config.yml
