@@ -436,4 +436,4 @@
 [Amprex](http://warframe.fandom.com/wiki/Amprex)|Rifle|21|Held|22|12.0|100
 
 
-__Updated:__ 2019-12-19, 08:01:14 UTC
+__Updated:__ 2019-12-20, 08:03:33 UTC
