@@ -295,7 +295,6 @@
 [Aksomati Prime](http://warframe.fandom.com/wiki/Aksomati_Prime)|Dual Pistols|267|Auto|20|13.33|80
 [Baza Prime](http://warframe.fandom.com/wiki/Baza_Prime)|Rifle|267|Auto|16|16.67|60
 [Baza](http://warframe.fandom.com/wiki/Baza)|Rifle|267|Auto|16|16.67|40
-[Corvas](http://warframe.fandom.com/wiki/Corvas)|Shotgun|265|Charge|350|2|25
 [Arca Titron](http://warframe.fandom.com/wiki/Arca_Titron)|Hammer|264|Melee|360|0.73|0
 [Sicarus Prime](http://warframe.fandom.com/wiki/Sicarus_Prime)|Pistol|263|Burst|50|9.38|24
 [Wolf Sledge](http://warframe.fandom.com/wiki/Wolf_Sledge)|Hammer|259|Melee|259|1|0
@@ -436,4 +435,4 @@
 [Amprex](http://warframe.fandom.com/wiki/Amprex)|Rifle|21|Held|22|12.0|100
 
 
-__Updated:__ 2019-12-20, 08:03:33 UTC
+__Updated:__ 2019-12-21, 08:03:32 UTC
