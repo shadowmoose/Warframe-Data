@@ -154,12 +154,13 @@
 [Redeemer](http://warframe.fandom.com/wiki/Redeemer)|Gunblade|1500|Melee|1800|0.83|0
 [Ogris](http://warframe.fandom.com/wiki/Ogris)|Launcher|900|Charge|600|1.5|5
 [Akbronco Prime](http://warframe.fandom.com/wiki/Akbronco_Prime)|Dual Shotguns|684|Semi|350|4.33|8
+[Ferrox](http://warframe.fandom.com/wiki/Ferrox)|Speargun|650|Charge|650|1|10
 [Twin Rogga](http://warframe.fandom.com/wiki/Twin_Rogga)|Dual Shotguns|613|Semi|705|2.5|2
 [Prisma Angstrum](http://warframe.fandom.com/wiki/Prisma_Angstrum)|Pistol|540|Charge|1350|2|1
 [Brakk](http://warframe.fandom.com/wiki/Brakk)|Shotgun Sidearm|488|Semi|200|5.0|5
-[Ferrox](http://warframe.fandom.com/wiki/Ferrox)|Speargun|466|Charge|350|1.33|10
 [Kulstar](http://warframe.fandom.com/wiki/Kulstar)|Pistol|429|Active|500|2|3
 [Twin Grakatas](http://warframe.fandom.com/wiki/Twin_Grakatas)|Dual Pistols|400|Auto|20|20|60
+[Javlok](http://warframe.fandom.com/wiki/Javlok)|Speargun|400|Charge|120|3.33|6
 [Prisma Grakata](http://warframe.fandom.com/wiki/Prisma_Grakata)|Rifle|325|Auto|15|21.67|120
 [Burston Prime](http://warframe.fandom.com/wiki/Burston_Prime)|Rifle|306|Burst|36|13.64|45
 [Prisma Grinlok](http://warframe.fandom.com/wiki/Prisma_Grinlok)|Rifle|275|Semi|187|1.67|21
@@ -214,7 +215,6 @@
 [Prisma Skana](http://warframe.fandom.com/wiki/Prisma_Skana)|Sword|170|Melee|170|1|0
 [Dakra Prime](http://warframe.fandom.com/wiki/Dakra_Prime)|Sword|170|Melee|170|1|0
 [Secura Dual Cestra](http://warframe.fandom.com/wiki/Secura_Dual_Cestra)|Dual Pistols|169|Auto|28|12.5|120
-[Javlok](http://warframe.fandom.com/wiki/Javlok)|Speargun|167|Charge|50|3.33|6
 [Spira Prime](http://warframe.fandom.com/wiki/Spira_Prime)|Thrown|166|Auto|60|3.33|12
 [Paris Prime](http://warframe.fandom.com/wiki/Paris_Prime)|Bow|164|Charge|360|1|1
 [Spira](http://warframe.fandom.com/wiki/Spira)|Thrown|164|Auto|82|2.5|10
@@ -435,4 +435,4 @@
 [Amprex](http://warframe.fandom.com/wiki/Amprex)|Rifle|21|Held|22|12.0|100
 
 
-__Updated:__ 2019-12-26, 08:03:38 UTC
+__Updated:__ 2019-12-31, 08:04:04 UTC
