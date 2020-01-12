@@ -150,8 +150,6 @@
 
 |Weapon | Type | Total DPS | Trigger | Hit Damage | Fire Rate| Magazine|
 --- | --- | --- | --- | --- | --- | ---
-[Redeemer Prime](http://warframe.fandom.com/wiki/Redeemer_Prime)|Gunblade|1943|Melee|2120|0.92|0
-[Redeemer](http://warframe.fandom.com/wiki/Redeemer)|Gunblade|1500|Melee|1800|0.83|0
 [Ogris](http://warframe.fandom.com/wiki/Ogris)|Launcher|900|Charge|600|1.5|5
 [Akbronco Prime](http://warframe.fandom.com/wiki/Akbronco_Prime)|Dual Shotguns|684|Semi|350|4.33|8
 [Ferrox](http://warframe.fandom.com/wiki/Ferrox)|Speargun|650|Charge|650|1|10
@@ -202,6 +200,7 @@
 [Azima](http://warframe.fandom.com/wiki/Azima)|Pistol|200|Auto|20|10|75
 [Argonak](http://warframe.fandom.com/wiki/Argonak)|Rifle|199|Semi|57|4.33|43
 [Prova Vandal](http://warframe.fandom.com/wiki/Prova_Vandal)|Machete|198|Melee|198|1|0
+[Redeemer Prime](http://warframe.fandom.com/wiki/Redeemer_Prime)|Gunblade|194|Melee|212|0.92|0
 [Bo Prime](http://warframe.fandom.com/wiki/Bo_Prime)|Staff|191|Melee|176|1.08|0
 [Hikou Prime](http://warframe.fandom.com/wiki/Hikou_Prime)|Thrown|189|Auto|36|5.83|26
 [Scoliac](http://warframe.fandom.com/wiki/Scoliac)|Whip|188|Melee|150|1.25|0
@@ -228,6 +227,7 @@
 [Dread](http://warframe.fandom.com/wiki/Dread)|Bow|153|Charge|336|1|1
 [Braton](http://warframe.fandom.com/wiki/Braton)|Rifle|151|Auto|24|8.75|45
 [Secura Penta](http://warframe.fandom.com/wiki/Secura_Penta)|Launcher|150|Active|75|2|7
+[Redeemer](http://warframe.fandom.com/wiki/Redeemer)|Gunblade|150|Melee|180|0.83|0
 [Torid](http://warframe.fandom.com/wiki/Torid)|Launcher|150|Semi|100|1.5|5
 [Orvius](http://warframe.fandom.com/wiki/Orvius)|Glaive|146|Melee|195|0.75|0
 [Hystrix](http://warframe.fandom.com/wiki/Hystrix)|Pistol|145|Auto|36.000004|7.0|16
@@ -435,4 +435,4 @@
 [Amprex](http://warframe.fandom.com/wiki/Amprex)|Rifle|21|Held|22|12.0|100
 
 
-__Updated:__ 2020-01-11, 08:04:05 UTC
+__Updated:__ 2020-01-12, 08:04:00 UTC
