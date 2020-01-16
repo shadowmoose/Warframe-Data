@@ -34,6 +34,6 @@ jobs:
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./data
       with:
-        username: "github-action-bot"
-        useremail: "github-bot@github.com"
+        username: "shadow-bot"
+        useremail: "github_bot@github.com"
 
