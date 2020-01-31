@@ -152,7 +152,6 @@
 --- | --- | --- | --- | --- | --- | ---
 [Ogris](http://warframe.fandom.com/wiki/Ogris)|Launcher|900|Charge|600|1.5|5
 [Akbronco Prime](http://warframe.fandom.com/wiki/Akbronco_Prime)|Dual Shotguns|684|Semi|350|4.33|8
-[Ferrox](http://warframe.fandom.com/wiki/Ferrox)|Speargun|650|Charge|650|1|10
 [Twin Rogga](http://warframe.fandom.com/wiki/Twin_Rogga)|Dual Shotguns|613|Semi|705|2.5|2
 [Prisma Angstrum](http://warframe.fandom.com/wiki/Prisma_Angstrum)|Pistol|540|Charge|1350|2|1
 [Brakk](http://warframe.fandom.com/wiki/Brakk)|Shotgun Sidearm|488|Semi|200|5.0|5
@@ -234,6 +233,7 @@
 [Bo](http://warframe.fandom.com/wiki/Bo)|Staff|140|Melee|140|1|0
 [Hikou](http://warframe.fandom.com/wiki/Hikou)|Thrown|139|Auto|26|6.67|20
 [Mk1-Braton](http://warframe.fandom.com/wiki/MK1-Braton)|Rifle|135|Auto|18|7.5|60
+[Ferrox](http://warframe.fandom.com/wiki/Ferrox)|Speargun|133|Charge|100|1.33|10
 [Dual Ichor](http://warframe.fandom.com/wiki/Dual_Ichor)|Dual Swords|132|Melee|122|1.08|0
 [Snipetron](http://warframe.fandom.com/wiki/Snipetron)|Sniper Rifle|131|Semi|180|2|4
 [Prova](http://warframe.fandom.com/wiki/Prova)|Machete|128|Melee|128|1|0
@@ -435,4 +435,4 @@
 [Amprex](http://warframe.fandom.com/wiki/Amprex)|Rifle|21|Held|22|12.0|100
 
 
-__Updated:__ 2020-01-30, 08:03:29 UTC
+__Updated:__ 2020-01-31, 08:04:18 UTC
