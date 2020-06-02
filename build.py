@@ -18,7 +18,7 @@ bkup = bkup.split('WeaponData =')[1].split('return WeaponData')[0].strip()
 backup = {}
 
 def get(obj, tag, def_val=0):
-	return getattr(obj, tag, def_val)
+	return obj[tag] if tag in obj else def_val
 
 for k, v in lua.decode(bkup)['Weapons'].items():
 	key = html.unescape(k).lower()
