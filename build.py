@@ -79,7 +79,7 @@ with open('./data/Rivens.md', 'w') as out:
 		out.write('''|Weapon | Type | Total DPS | Trigger | Hit Damage | Fire Rate| Magazine|\n--- | --- | --- | --- | --- | --- | ---\n''')
 		for o in filter(lambda y: y['disposition'] == x, ordered):
 			out.write('[%s](%s)|%s|%s|%s|%s|%s|%s\n' %
-					  (o['name'], o['wikiaUrl'], o['type'] or 'Unknown', round(o['damagePerSecond']), get(o, 'trigger', False), o['totalDamage'], round(o['fireRate'], 2), get(o, 'magazineSize', 0)) )
+					  (o['name'], o['wikiaUrl'], o['type'] or 'Unknown', round(o['damagePerSecond']), get(o, 'trigger', '?'), round(o['totalDamage'], 2), round(o['fireRate'], 2), get(o, 'magazineSize', 0)) )
 		out.write('\n\n')
 	out.write('__Updated:__ %s UTC' % datetime.now(timezone.utc).strftime("%Y-%m-%d, %H:%M:%S"))
 
