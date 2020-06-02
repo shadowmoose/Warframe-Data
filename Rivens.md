@@ -461,4 +461,4 @@
 [Amprex](http://warframe.fandom.com/wiki/Amprex)|Rifle|21|False|22|12.0|0
 
 
-__Updated:__ 2020-06-02, 02:00:28 UTC
+__Updated:__ 2020-06-02, 02:02:25 UTC
