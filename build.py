@@ -17,6 +17,8 @@ bkup = requests.get(backup).text
 bkup = bkup.split('WeaponData =')[1].split('return WeaponData')[0].strip()
 backup = {}
 
+def get(obj, tag, def_val=0):
+	return getattr(obj, tag, def_val)
 
 for k, v in lua.decode(bkup)['Weapons'].items():
 	key = html.unescape(k).lower()
@@ -66,8 +68,6 @@ for o in weapons:
 				o['totalDamage'] = round(dmg)
 				o['fireRate'] = rate
 				o['damagePerSecond'] = round(rate*dmg)
-				o['magazineSize'] = o['magazineSize'] if 'magazineSize' in o else 0
-				o['trigger'] = o['trigger'] if 'trigger' in o else False
 				break
 
 ordered = sorted(weapons, key=lambda x: (x['disposition'], x['damagePerSecond'], len(x['name'])), reverse=True)
@@ -79,7 +79,7 @@ with open('./data/Rivens.md', 'w') as out:
 		out.write('''|Weapon | Type | Total DPS | Trigger | Hit Damage | Fire Rate| Magazine|\n--- | --- | --- | --- | --- | --- | ---\n''')
 		for o in filter(lambda y: y['disposition'] == x, ordered):
 			out.write('[%s](%s)|%s|%s|%s|%s|%s|%s\n' %
-					  (o['name'], o['wikiaUrl'], o['type'] or 'Unknown', round(o['damagePerSecond']), o['trigger'], o['totalDamage'], round(o['fireRate'], 2), o['magazineSize']) )
+					  (o['name'], o['wikiaUrl'], o['type'] or 'Unknown', round(o['damagePerSecond']), get(o, 'trigger', False), o['totalDamage'], round(o['fireRate'], 2), get(o, 'magazineSize', 0)) )
 		out.write('\n\n')
 	out.write('__Updated:__ %s UTC' % datetime.now(timezone.utc).strftime("%Y-%m-%d, %H:%M:%S"))
 
