@@ -67,6 +67,7 @@ for o in weapons:
 				o['fireRate'] = rate
 				o['damagePerSecond'] = round(rate*dmg)
 				o['magazineSize'] = o['magazineSize'] if 'magazineSize' in o else 0
+				o['trigger'] = o['trigger'] if 'trigger' in o else False
 				break
 
 ordered = sorted(weapons, key=lambda x: (x['disposition'], x['damagePerSecond'], len(x['name'])), reverse=True)
