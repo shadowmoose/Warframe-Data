@@ -47,6 +47,8 @@ for s in stats:
 
 
 for o in weapons:
+	if get(o, 'type', '') == 'Exalted Weapon':
+		continue
 	# Some of the API data is missing valid DPS numbers, so correct them using the wiki.
 	if get(o, 'damagePerSecond', 0) <= 1 or get(o, 'totalDamage', 0) <= 20:
 		if o['name'].lower() not in backup.keys():
