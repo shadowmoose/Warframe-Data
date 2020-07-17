@@ -48,7 +48,7 @@ for s in stats:
 
 for o in weapons:
 	# Some of the API data is missing valid DPS numbers, so correct them using the wiki.
-	if get(o, 'damagePerSecond'], 0) <= 1 or get(o, 'totalDamage', 0) <= 20:
+	if get(o, 'damagePerSecond', 0) <= 1 or get(o, 'totalDamage', 0) <= 20:
 		if o['name'].lower() not in backup.keys():
 			raise Exception('No backup found: %s' % o['name'])
 		else:
