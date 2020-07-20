@@ -108,13 +108,13 @@
 [Amphis](http://warframe.fandom.com/wiki/Amphis)|Staff|162|-|130|1.25|-
 [Ankyros Prime](http://warframe.fandom.com/wiki/Ankyros_Prime)|Fist|160|-|128|1.25|-
 [Paris](http://warframe.fandom.com/wiki/Paris)|Bow|160|Charge|160|1|1
+[Heat Dagger](http://warframe.fandom.com/wiki/Heat_Dagger)|Dagger|156|-|208|0.75|-
 [Ripkas](http://warframe.fandom.com/wiki/Ripkas)|Claws|153|-|173|0.88|-
 [Kunai](http://warframe.fandom.com/wiki/Kunai)|Thrown|153|Auto|46|3.33|10
 [Gram](http://warframe.fandom.com/wiki/Gram)|Heavy Blade|152|-|160|0.95|-
 [Okina](http://warframe.fandom.com/wiki/Okina)|Dual Daggers|151|-|140|1.08|-
 [Furax Wraith](http://warframe.fandom.com/wiki/Furax_Wraith)|Fist|150|-|139|1.08|-
 [Kohmak](http://warframe.fandom.com/wiki/Kohmak)|Shotgun Sidearm|150|Auto|30|5|40
-[Heat Dagger](http://warframe.fandom.com/wiki/Heat_Dagger)|Dagger|148|-|198|0.75|-
 [Tekko](http://warframe.fandom.com/wiki/Tekko)|Fist|147|-|160|0.92|-
 [Ceramic Dagger](http://warframe.fandom.com/wiki/Ceramic_Dagger)|Dagger|140|-|140|1|-
 [Kronen](http://warframe.fandom.com/wiki/Kronen)|Tonfa|140|-|130|1.08|-
@@ -468,4 +468,4 @@
 [Xoris](http://warframe.fandom.com/wiki/Xoris)|Glaive|140|-|120|1.17|-
 
 
-__Updated:__ 2020-07-19, 08:09:55 UTC
+__Updated:__ 2020-07-20, 08:10:35 UTC
