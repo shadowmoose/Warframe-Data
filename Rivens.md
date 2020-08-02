@@ -340,6 +340,7 @@
 [Prisma Veritux](http://warframe.fandom.com/wiki/Prisma_Veritux)|Unknown|394|-|394|1|-
 [Veritux](http://warframe.fandom.com/wiki/Veritux)|Unknown|392|-|470|0.83|-
 [Kaszas](http://warframe.fandom.com/wiki/Kaszas)|Unknown|392|-|392|1|-
+[Athodai](http://warframe.fandom.com/wiki/Athodai)|Pistol|350|Auto|70|5.0|24
 [Quellor](http://warframe.fandom.com/wiki/Quellor)|Rifle|348|Auto|58|6|300
 [Vectis](http://warframe.fandom.com/wiki/Vectis)|Sniper Rifle|338|Semi|225|1.5|1
 [Kuva Seer](http://warframe.fandom.com/wiki/Kuva_Seer)|Pistol|328|Semi|131|2.5|9
@@ -468,4 +469,4 @@
 [Xoris](http://warframe.fandom.com/wiki/Xoris)|Glaive|140|-|120|1.17|-
 
 
-__Updated:__ 2020-08-01, 08:10:55 UTC
+__Updated:__ 2020-08-02, 08:11:07 UTC
