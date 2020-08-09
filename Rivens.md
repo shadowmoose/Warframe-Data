@@ -469,4 +469,4 @@
 [Xoris](http://warframe.fandom.com/wiki/Xoris)|Glaive|140|-|120|1.17|-
 
 
-__Updated:__ 2020-08-08, 08:11:38 UTC
+__Updated:__ 2020-08-09, 08:11:32 UTC
