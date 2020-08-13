@@ -328,18 +328,10 @@
 [Supra](http://warframe.fandom.com/wiki/Supra)|Rifle|500|Auto|40|12.5|180
 [Sicarus Prime](http://warframe.fandom.com/wiki/Sicarus_Prime)|Pistol|469|Burst|50|9.38|24
 [Basmu](http://warframe.fandom.com/wiki/Basmu)|Rifle|468|Auto|39|12|21
-[Knux](http://warframe.fandom.com/wiki/Knux)|Unknown|445|-|445|1|-
-[Agkuza](http://warframe.fandom.com/wiki/Agkuza)|Unknown|436|-|436|1|-
-[Rathbone](http://warframe.fandom.com/wiki/Rathbone)|Unknown|413|-|450|0.92|-
-[Onorix](http://warframe.fandom.com/wiki/Onorix)|Unknown|412|-|412|1|-
-[Centaur](http://warframe.fandom.com/wiki/Centaur)|Unknown|406|-|376|1.08|-
 [Opticor Vandal](http://warframe.fandom.com/wiki/Opticor_Vandal)|Rifle|400|Charge|200|2|8
 [Opticor](http://warframe.fandom.com/wiki/Opticor)|Rifle|400|Charge|400|1|5
 [Tiberon](http://warframe.fandom.com/wiki/Tiberon)|Rifle|400|Burst|44|9.09|30
 [Kuva Ayanga](http://warframe.fandom.com/wiki/Kuva_Ayanga)|Unknown|398|Auto|87|4.58|33
-[Prisma Veritux](http://warframe.fandom.com/wiki/Prisma_Veritux)|Unknown|394|-|394|1|-
-[Veritux](http://warframe.fandom.com/wiki/Veritux)|Unknown|392|-|470|0.83|-
-[Kaszas](http://warframe.fandom.com/wiki/Kaszas)|Unknown|392|-|392|1|-
 [Athodai](http://warframe.fandom.com/wiki/Athodai)|Pistol|350|Auto|70|5.0|24
 [Quellor](http://warframe.fandom.com/wiki/Quellor)|Rifle|348|Auto|58|6|300
 [Vectis](http://warframe.fandom.com/wiki/Vectis)|Sniper Rifle|338|Semi|225|1.5|1
@@ -449,7 +441,15 @@
 [Arca Plasmor](http://warframe.fandom.com/wiki/Arca_Plasmor)|Shotgun|660|Semi|600|1.1|10
 [Kuva Bramma](http://warframe.fandom.com/wiki/Kuva_Bramma)|Bow|559|Charge|839|0.67|1
 [Euphona Prime](http://warframe.fandom.com/wiki/Euphona_Prime)|Shotgun Sidearm|488|Semi|325|1.5|5
+[Knux](http://warframe.fandom.com/wiki/Knux)|Unknown|445|-|445|1|-
+[Agkuza](http://warframe.fandom.com/wiki/Agkuza)|Unknown|436|-|436|1|-
 [Acceltra](http://warframe.fandom.com/wiki/Acceltra)|Rifle|420|Auto|35|12|48
+[Rathbone](http://warframe.fandom.com/wiki/Rathbone)|Unknown|413|-|450|0.92|-
+[Onorix](http://warframe.fandom.com/wiki/Onorix)|Unknown|412|-|412|1|-
+[Centaur](http://warframe.fandom.com/wiki/Centaur)|Unknown|406|-|376|1.08|-
+[Prisma Veritux](http://warframe.fandom.com/wiki/Prisma_Veritux)|Unknown|394|-|394|1|-
+[Veritux](http://warframe.fandom.com/wiki/Veritux)|Unknown|392|-|470|0.83|-
+[Kaszas](http://warframe.fandom.com/wiki/Kaszas)|Unknown|392|-|392|1|-
 [Panthera Prime](http://warframe.fandom.com/wiki/Panthera_Prime)|Rifle|367|Auto|100|3.67|40
 [Stahlta](http://warframe.fandom.com/wiki/Stahlta)|Rifle|312|Auto|52|6|40
 [Galatine Prime](http://warframe.fandom.com/wiki/Galatine_Prime)|Heavy Blade|280|-|280|1|-
@@ -469,4 +469,4 @@
 [Xoris](http://warframe.fandom.com/wiki/Xoris)|Glaive|140|-|120|1.17|-
 
 
-__Updated:__ 2020-08-12, 08:12:16 UTC
+__Updated:__ 2020-08-13, 08:12:26 UTC
