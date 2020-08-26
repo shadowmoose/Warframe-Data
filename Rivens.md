@@ -436,6 +436,7 @@
 |Weapon | Type | Total DPS | Trigger | Hit Damage | Fire Rate| Magazine|
 --- | --- | --- | --- | --- | --- | ---
 [Fulmin](http://warframe.fandom.com/wiki/Fulmin)|Rifle|1085|Semi|500|2.17|6
+[Cortege](http://warframe.fandom.com/wiki/Cortege)|Unknown|1080|Held|90|12|100
 [Pyrana Prime](http://warframe.fandom.com/wiki/Pyrana_Prime)|Shotgun Sidearm|960|Auto|240|4|12
 [Rubico Prime](http://warframe.fandom.com/wiki/Rubico_Prime)|Sniper Rifle|686|Semi|187|3.67|5
 [Arca Plasmor](http://warframe.fandom.com/wiki/Arca_Plasmor)|Shotgun|660|Semi|600|1.1|10
@@ -450,6 +451,7 @@
 [Prisma Veritux](http://warframe.fandom.com/wiki/Prisma_Veritux)|Unknown|394|-|394|1|-
 [Veritux](http://warframe.fandom.com/wiki/Veritux)|Unknown|392|-|470|0.83|-
 [Kaszas](http://warframe.fandom.com/wiki/Kaszas)|Unknown|392|-|392|1|-
+[Trumna](http://warframe.fandom.com/wiki/Trumna)|Rifle|383|Auto|82|4.67|200
 [Panthera Prime](http://warframe.fandom.com/wiki/Panthera_Prime)|Rifle|367|Auto|100|3.67|40
 [Stahlta](http://warframe.fandom.com/wiki/Stahlta)|Rifle|312|Auto|52|6|40
 [Galatine Prime](http://warframe.fandom.com/wiki/Galatine_Prime)|Heavy Blade|280|-|280|1|-
@@ -460,13 +462,17 @@
 [Akstiletto Prime](http://warframe.fandom.com/wiki/Akstiletto_Prime)|Dual Pistols|255|Auto|36|7.08|40
 [Lesion](http://warframe.fandom.com/wiki/Lesion)|Polearm|237|-|237|1|-
 [Karyst Prime](http://warframe.fandom.com/wiki/Karyst_Prime)|Dagger|229|-|344|0.67|-
+[Keratinos](http://warframe.fandom.com/wiki/Keratinos)|Claws|224|-|244|0.92|-
 [Stropha](http://warframe.fandom.com/wiki/Stropha)|Gunblade|220|-|220|1|-
 [Nikana Prime](http://warframe.fandom.com/wiki/Nikana_Prime)|Nikana|214|-|198|1.08|-
 [Kuva Nukor](http://warframe.fandom.com/wiki/Kuva_Nukor)|Pistol|210|Held|21|10|77
 [Paracesis](http://warframe.fandom.com/wiki/Paracesis)|Heavy Blade|204|-|222|0.92|-
+[Quassus](http://warframe.fandom.com/wiki/Quassus)|Warfan|192|-|230|0.83|-
 [Kuva Shildeg](http://warframe.fandom.com/wiki/Kuva_Shildeg)|Hammer|188|-|205|0.92|-
 [Staticor](http://warframe.fandom.com/wiki/Staticor)|Dual Pistols|154|Charge|44|3.5|-
 [Xoris](http://warframe.fandom.com/wiki/Xoris)|Glaive|140|-|120|1.17|-
+[Sepulcrum](http://warframe.fandom.com/wiki/Sepulcrum)|Pistol|48|Burst|48|1.0|90
+[Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|9
 
 
-__Updated:__ 2020-08-25, 08:14:44 UTC
+__Updated:__ 2020-08-26, 08:13:17 UTC
