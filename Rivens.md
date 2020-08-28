@@ -437,6 +437,7 @@
 --- | --- | --- | --- | --- | --- | ---
 [Fulmin](http://warframe.fandom.com/wiki/Fulmin)|Rifle|1085|Semi|500|2.17|6
 [Cortege](http://warframe.fandom.com/wiki/Cortege)|Unknown|1080|Held|90|12|100
+[Mausolon](http://warframe.fandom.com/wiki/Mausolon)|Unknown|1000|Auto|120|8.33|300
 [Pyrana Prime](http://warframe.fandom.com/wiki/Pyrana_Prime)|Shotgun Sidearm|960|Auto|240|4|12
 [Rubico Prime](http://warframe.fandom.com/wiki/Rubico_Prime)|Sniper Rifle|686|Semi|187|3.67|5
 [Arca Plasmor](http://warframe.fandom.com/wiki/Arca_Plasmor)|Shotgun|660|Semi|600|1.1|10
@@ -475,4 +476,4 @@
 [Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|9
 
 
-__Updated:__ 2020-08-27, 08:14:48 UTC
+__Updated:__ 2020-08-28, 08:14:22 UTC
