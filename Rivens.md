@@ -473,7 +473,7 @@
 [Staticor](http://warframe.fandom.com/wiki/Staticor)|Dual Pistols|154|Charge|44|3.5|-
 [Xoris](http://warframe.fandom.com/wiki/Xoris)|Glaive|140|-|120|1.17|-
 [Sepulcrum](http://warframe.fandom.com/wiki/Sepulcrum)|Pistol|48|Burst|48|1.0|90
-[Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|9
+[Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|17
 
 
-__Updated:__ 2020-09-01, 08:14:41 UTC
+__Updated:__ 2020-09-02, 08:14:12 UTC
