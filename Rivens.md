@@ -101,8 +101,8 @@
 [Paris Prime](http://warframe.fandom.com/wiki/Paris_Prime)|Bow|180|Charge|180|1|1
 [Dual Ether](http://warframe.fandom.com/wiki/Dual_Ether)|Dual Swords|180|-|180|1|-
 [Gazal Machete](http://warframe.fandom.com/wiki/Gazal_Machete)|Machete|178|-|178|1|-
-[Prisma Machete](http://warframe.fandom.com/wiki/Prisma_Machete)|Machete|177|-|193|0.92|-
 [Halikar](http://warframe.fandom.com/wiki/Halikar)|Glaive|174|-|149|1.17|-
+[Prisma Machete](http://warframe.fandom.com/wiki/Prisma_Machete)|Machete|173|-|189|0.92|-
 [Nami Solo](http://warframe.fandom.com/wiki/Nami_Solo)|Machete|172|-|172|1|-
 [Tipedo](http://warframe.fandom.com/wiki/Tipedo)|Staff|165|-|124|1.33|-
 [Amphis](http://warframe.fandom.com/wiki/Amphis)|Staff|162|-|130|1.25|-
@@ -476,4 +476,4 @@
 [Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|17
 
 
-__Updated:__ 2020-09-19, 08:14:29 UTC
+__Updated:__ 2020-09-20, 08:14:16 UTC
