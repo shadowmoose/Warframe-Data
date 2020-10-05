@@ -18,6 +18,7 @@
 [Castanas](http://warframe.fandom.com/wiki/Castanas)|Thrown|533|Active|160|3.33|2
 [Angstrum](http://warframe.fandom.com/wiki/Angstrum)|Pistol|500|Charge|250|2|1
 [Burston Prime](http://warframe.fandom.com/wiki/Burston_Prime)|Rifle|491|Burst|36|13.64|45
+[Dual Cestra](http://warframe.fandom.com/wiki/Dual_Cestra)|Dual Pistols|488|Auto|26|18.75|120
 [Akmagnus](http://warframe.fandom.com/wiki/Akmagnus)|Dual Pistols|469|Semi|76|6.17|16
 [Twin Vipers Wraith](http://warframe.fandom.com/wiki/Twin_Vipers_Wraith)|Dual Pistols|450|Auto|18|25|40
 [Magnus](http://warframe.fandom.com/wiki/Magnus)|Pistol|443|Semi|76|5.83|8
@@ -34,7 +35,6 @@
 [Karak](http://warframe.fandom.com/wiki/Karak)|Rifle|338|Auto|29|11.67|30
 [Dera](http://warframe.fandom.com/wiki/Dera)|Rifle|338|Auto|30|11.25|45
 [Latron Wraith](http://warframe.fandom.com/wiki/Latron_Wraith)|Rifle|325|Semi|60|5.42|15
-[Dual Cestra](http://warframe.fandom.com/wiki/Dual_Cestra)|Dual Pistols|325|Auto|26|12.5|120
 [Tysis](http://warframe.fandom.com/wiki/Tysis)|Pistol|325|Semi|130|2.5|11
 [Lato Prime](http://warframe.fandom.com/wiki/Lato_Prime)|Pistol|320|Semi|48|6.67|20
 [Dex Furis](http://warframe.fandom.com/wiki/Dex_Furis)|Dual Pistols|320|Auto|16|20|100
@@ -476,4 +476,4 @@
 [Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|17
 
 
-__Updated:__ 2020-10-04, 08:15:28 UTC
+__Updated:__ 2020-10-05, 08:16:09 UTC
