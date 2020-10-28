@@ -97,10 +97,13 @@
 [Tonbo](http://warframe.fandom.com/wiki/Tonbo)|Polearm|184|-|184|1|-
 [Anku](http://warframe.fandom.com/wiki/Anku)|Scythe|184|-|170|1.08|-
 [Cerata](http://warframe.fandom.com/wiki/Cerata)|Glaive|183|-|183|1|-
+[Endura](http://warframe.fandom.com/wiki/Endura)|Rapier|183|-|200|0.92|-
+[Scindo](http://warframe.fandom.com/wiki/Scindo)|Heavy Blade|183|-|200|0.92|-
 [Krohkur](http://warframe.fandom.com/wiki/Krohkur)|Sword|181|-|217|0.83|-
 [Paris Prime](http://warframe.fandom.com/wiki/Paris_Prime)|Bow|180|Charge|180|1|1
 [Dual Ether](http://warframe.fandom.com/wiki/Dual_Ether)|Dual Swords|180|-|180|1|-
 [Gazal Machete](http://warframe.fandom.com/wiki/Gazal_Machete)|Machete|178|-|178|1|-
+[Magistar](http://warframe.fandom.com/wiki/Magistar)|Hammer|175|-|210|0.83|-
 [Halikar](http://warframe.fandom.com/wiki/Halikar)|Glaive|174|-|149|1.17|-
 [Prisma Machete](http://warframe.fandom.com/wiki/Prisma_Machete)|Machete|173|-|189|0.92|-
 [Nami Solo](http://warframe.fandom.com/wiki/Nami_Solo)|Machete|172|-|172|1|-
@@ -116,6 +119,7 @@
 [Furax Wraith](http://warframe.fandom.com/wiki/Furax_Wraith)|Fist|150|-|139|1.08|-
 [Kohmak](http://warframe.fandom.com/wiki/Kohmak)|Shotgun Sidearm|150|Auto|30|5|40
 [Tekko](http://warframe.fandom.com/wiki/Tekko)|Fist|147|-|160|0.92|-
+[Orvius](http://warframe.fandom.com/wiki/Orvius)|Glaive|146|-|195|0.75|-
 [Ceramic Dagger](http://warframe.fandom.com/wiki/Ceramic_Dagger)|Dagger|140|-|140|1|-
 [Kronen](http://warframe.fandom.com/wiki/Kronen)|Tonfa|140|-|130|1.08|-
 [Bo](http://warframe.fandom.com/wiki/Bo)|Staff|140|-|140|1|-
@@ -127,6 +131,8 @@
 [Plasma Sword](http://warframe.fandom.com/wiki/Plasma_Sword)|Sword|133|-|200|0.67|-
 [Mk1-Kunai](http://warframe.fandom.com/wiki/MK1-Kunai)|Thrown|133|Auto|40|3.33|10
 [Prova](http://warframe.fandom.com/wiki/Prova)|Machete|128|-|128|1|-
+[Dex Dakra](http://warframe.fandom.com/wiki/Dex_Dakra)|Dual Swords|125|-|142|0.88|-
+[Ack & Brunt](http://warframe.fandom.com/wiki/Ack_%26_Brunt)|Sword And Shield|124|-|149|0.83|-
 [Mk1-Paris](http://warframe.fandom.com/wiki/MK1-Paris)|Bow|115|Charge|115|1|1
 [Jaw Sword](http://warframe.fandom.com/wiki/Jaw_Sword)|Sword|110|-|120|0.92|-
 [Machete](http://warframe.fandom.com/wiki/Machete)|Machete|110|-|120|0.92|-
@@ -226,12 +232,12 @@
 [Pupacyst](http://warframe.fandom.com/wiki/Pupacyst)|Polearm|237|-|284|0.83|-
 [Rakta Cernos](http://warframe.fandom.com/wiki/Rakta_Cernos)|Bow|235|Charge|235|1|1
 [Heliocor](http://warframe.fandom.com/wiki/Heliocor)|Hammer|233|-|280|0.83|-
+[Vaykor Sydon](http://warframe.fandom.com/wiki/Vaykor_Sydon)|Polearm|230|-|213|1.08|-
 [Twin Krohkur](http://warframe.fandom.com/wiki/Twin_Krohkur)|Dual Swords|229|-|250|0.92|-
 [Aksomati](http://warframe.fandom.com/wiki/Aksomati)|Dual Pistols|225|Auto|18|12.5|70
 [Sicarus](http://warframe.fandom.com/wiki/Sicarus)|Pistol|222|Burst|30|7.39|15
 [Cassowar](http://warframe.fandom.com/wiki/Cassowar)|Polearm|220|-|188|1.17|-
 [Boltor](http://warframe.fandom.com/wiki/Boltor)|Rifle|219|Auto|25|8.75|60
-[Hate](http://warframe.fandom.com/wiki/Hate)|Scythe|211|-|230|0.92|-
 [Hikou Prime](http://warframe.fandom.com/wiki/Hikou_Prime)|Thrown|210|Auto|36|5.83|26
 [Skana Prime](http://warframe.fandom.com/wiki/Skana_Prime)|Sword|210|-|210|1|-
 [Twin Basolk](http://warframe.fandom.com/wiki/Twin_Basolk)|Dual Swords|210|-|210|1|-
@@ -253,16 +259,14 @@
 [Dragon Nikana](http://warframe.fandom.com/wiki/Dragon_Nikana)|Nikana|188|-|188|1|-
 [Scoliac](http://warframe.fandom.com/wiki/Scoliac)|Whip|188|-|150|1.25|-
 [Sonicor](http://warframe.fandom.com/wiki/Sonicor)|Pistol|188|Semi|150|1.25|15
+[Dual Kamas Prime](http://warframe.fandom.com/wiki/Dual_Kamas_Prime)|Dual Swords|187|-|160|1.17|-
 [Scourge](http://warframe.fandom.com/wiki/Scourge)|Speargun|187|Auto|70|2.67|40
 [Gunsen](http://warframe.fandom.com/wiki/Gunsen)|Warfan|187|-|160|1.17|-
 [Twin Gremlins](http://warframe.fandom.com/wiki/Twin_Gremlins)|Dual Pistols|185|Auto|37|5|30
-[Endura](http://warframe.fandom.com/wiki/Endura)|Rapier|183|-|200|0.92|-
-[Scindo](http://warframe.fandom.com/wiki/Scindo)|Heavy Blade|183|-|200|0.92|-
 [Tekko Prime](http://warframe.fandom.com/wiki/Tekko_Prime)|Fist|180|-|180|1|-
 [Sheev](http://warframe.fandom.com/wiki/Sheev)|Dagger|180|-|270|0.67|-
 [Fang Prime](http://warframe.fandom.com/wiki/Fang_Prime)|Dual Daggers|178|-|178|1|-
 [Pathocyst](http://warframe.fandom.com/wiki/Pathocyst)|Glaive|175|-|262|0.67|-
-[Magistar](http://warframe.fandom.com/wiki/Magistar)|Hammer|175|-|210|0.83|-
 [Kreska](http://warframe.fandom.com/wiki/Kreska)|Machete|174|-|190|0.92|-
 [Hikou](http://warframe.fandom.com/wiki/Hikou)|Thrown|173|Auto|26|6.67|20
 [Mire](http://warframe.fandom.com/wiki/Mire)|Sword|171|-|158|1.08|-
@@ -277,18 +281,13 @@
 [Destreza Prime](http://warframe.fandom.com/wiki/Destreza_Prime)|Rapier|156|-|170|0.92|-
 [Plinx](http://warframe.fandom.com/wiki/Plinx)|Pistol|153|Semi|46|3.33|10
 [Secura Penta](http://warframe.fandom.com/wiki/Secura_Penta)|Launcher|150|Active|75|2|7
-[Redeemer](http://warframe.fandom.com/wiki/Redeemer)|Gunblade|150|-|180|0.83|-
 [Simulor](http://warframe.fandom.com/wiki/Simulor)|Rifle|150|Active|50|3|8
 [Torid](http://warframe.fandom.com/wiki/Torid)|Launcher|150|Semi|100|1.5|5
 [Zakti](http://warframe.fandom.com/wiki/Zakti)|Pistol|150|Semi|30|5|3
-[Orvius](http://warframe.fandom.com/wiki/Orvius)|Glaive|146|-|195|0.75|-
-[Dual Keres](http://warframe.fandom.com/wiki/Dual_Keres)|Dual Swords|144|-|115|1.25|-
 [Lex](http://warframe.fandom.com/wiki/Lex)|Pistol|140|Semi|130|1.08|6
 [Ferrox](http://warframe.fandom.com/wiki/Ferrox)|Speargun|133|Charge|100|1.33|10
 [Dual Ichor](http://warframe.fandom.com/wiki/Dual_Ichor)|Dual Swords|132|-|122|1.08|-
 [Dual Cleavers](http://warframe.fandom.com/wiki/Dual_Cleavers)|Dual Swords|131|-|157|0.83|-
-[Dex Dakra](http://warframe.fandom.com/wiki/Dex_Dakra)|Dual Swords|125|-|142|0.88|-
-[Ack & Brunt](http://warframe.fandom.com/wiki/Ack_%26_Brunt)|Sword And Shield|124|-|149|0.83|-
 [Prime Laser Rifle](http://warframe.fandom.com/wiki/Prime_Laser_Rifle)|Rifle|120|Auto|12|10|5
 [Obex](http://warframe.fandom.com/wiki/Obex)|Sparring|120|-|120|1|-
 [Nami Skyla](http://warframe.fandom.com/wiki/Nami_Skyla)|Dual Swords|115|-|125|0.92|-
@@ -296,6 +295,7 @@
 [Kohm](http://warframe.fandom.com/wiki/Kohm)|Shotgun|110|Auto|30|3.67|245
 [Glaive](http://warframe.fandom.com/wiki/Glaive)|Glaive|105|-|105|1|-
 [Pox](http://warframe.fandom.com/wiki/Pox)|Thrown|104|Auto|50|2.08|4
+[Lecta](http://warframe.fandom.com/wiki/Lecta)|Whip|101|-|101|1|-
 [Deconstructor Prime](http://warframe.fandom.com/wiki/Deconstructor_Prime)|Glaive|100|-|75|1.33|-
 [Skana](http://warframe.fandom.com/wiki/Skana)|Sword|100|-|120|0.83|-
 [Silva & Aegis](http://warframe.fandom.com/wiki/Silva_%26_Aegis)|Sword And Shield|98|-|98|1|-
@@ -311,12 +311,15 @@
 --- | --- | --- | --- | --- | --- | ---
 [Exergis](http://warframe.fandom.com/wiki/Exergis)|Shotgun|5395|Semi|1620|3.33|1
 [Velocitus](http://warframe.fandom.com/wiki/Velocitus)|Unknown|3000|Charge|600|5|10
+[Sancti Tigris](http://warframe.fandom.com/wiki/Sancti_Tigris)|Shotgun|2520|Duplex|1260|2|2
 [Tigris](http://warframe.fandom.com/wiki/Tigris)|Shotgun|2100|Duplex|1050|2|2
 [Vaykor Hek](http://warframe.fandom.com/wiki/Vaykor_Hek)|Shotgun|1575|Semi|525|3|8
 [Fluctus](http://warframe.fandom.com/wiki/Fluctus)|Unknown|1250|Semi|250|5|40
+[Pyrana](http://warframe.fandom.com/wiki/Pyrana)|Shotgun Sidearm|1101|Auto|264|4.17|10
 [Phantasma](http://warframe.fandom.com/wiki/Phantasma)|Shotgun|1080|Held|90|12|11
 [Mara Detron](http://warframe.fandom.com/wiki/Mara_Detron)|Shotgun Sidearm|932|Semi|280|3.33|8
 [Corvas](http://warframe.fandom.com/wiki/Corvas)|Unknown|880|Charge|440|2|25
+[Imperator](http://warframe.fandom.com/wiki/Imperator)|Unknown|835|Auto|50|16.7|200
 [Corinth Prime](http://warframe.fandom.com/wiki/Corinth_Prime)|Shotgun|767|Semi|540|1.42|20
 [Kuva Drakgoon](http://warframe.fandom.com/wiki/Kuva_Drakgoon)|Shotgun|766|Charge|230|3.33|11
 [Kuva Brakk](http://warframe.fandom.com/wiki/Kuva_Brakk)|Shotgun Sidearm|758|Semi|130|5.83|11
@@ -332,6 +335,7 @@
 [Opticor](http://warframe.fandom.com/wiki/Opticor)|Rifle|400|Charge|400|1|5
 [Tiberon](http://warframe.fandom.com/wiki/Tiberon)|Rifle|400|Burst|44|9.09|30
 [Kuva Ayanga](http://warframe.fandom.com/wiki/Kuva_Ayanga)|Unknown|398|Auto|87|4.58|33
+[Velox](http://warframe.fandom.com/wiki/Velox)|Pistol|360|Auto|24|15.0|62
 [Athodai](http://warframe.fandom.com/wiki/Athodai)|Pistol|350|Auto|70|5.0|24
 [Quellor](http://warframe.fandom.com/wiki/Quellor)|Rifle|348|Auto|58|6|300
 [Vectis](http://warframe.fandom.com/wiki/Vectis)|Sniper Rifle|338|Semi|225|1.5|1
@@ -342,6 +346,7 @@
 [Kuva Kraken](http://warframe.fandom.com/wiki/Kuva_Kraken)|Pistol|291|Burst|43|6.77|21
 [Akarius](http://warframe.fandom.com/wiki/Akarius)|Dual Pistols|289|Burst|68|4.25|10
 [Arca Scisco](http://warframe.fandom.com/wiki/Arca_Scisco)|Pistol|280|Semi|60|4.67|36
+[Akstiletto](http://warframe.fandom.com/wiki/Akstiletto)|Dual Pistols|280|Auto|28|10|28
 [Stradavar](http://warframe.fandom.com/wiki/Stradavar)|Rifle|280|Auto|28|10|65
 [Tenora](http://warframe.fandom.com/wiki/Tenora)|Rifle|280|Auto|24|11.67|150
 [Kuva Hind](http://warframe.fandom.com/wiki/Kuva_Hind)|Rifle|273|Burst|30|9.09|90
@@ -351,8 +356,8 @@
 [Baza Prime](http://warframe.fandom.com/wiki/Baza_Prime)|Rifle|267|Auto|16|16.67|60
 [Baza](http://warframe.fandom.com/wiki/Baza)|Rifle|267|Auto|16|16.67|40
 [Kuva Quartakk](http://warframe.fandom.com/wiki/Kuva_Quartakk)|Rifle|261|Auto|54|4.83|88
-[Kronen Prime](http://warframe.fandom.com/wiki/Kronen_Prime)|Tonfa|248|-|212|1.17|-
 [Zenistar](http://warframe.fandom.com/wiki/Zenistar)|Heavy Blade|248|-|298|0.83|-
+[Rakta Dark Dagger](http://warframe.fandom.com/wiki/Rakta_Dark_Dagger)|Dagger|246|-|246|1|-
 [Synoid Gammacor](http://warframe.fandom.com/wiki/Synoid_Gammacor)|Pistol|240|Held|20|12|80
 [Gram Prime](http://warframe.fandom.com/wiki/Gram_Prime)|Heavy Blade|240|-|300|0.8|-
 [Nami Skyla Prime](http://warframe.fandom.com/wiki/Nami_Skyla_Prime)|Dual Swords|239|-|180|1.33|-
@@ -360,34 +365,36 @@
 [Battacor](http://warframe.fandom.com/wiki/Battacor)|Rifle|236|Auto Burst|66|3.57|60
 [Ninkondi Prime](http://warframe.fandom.com/wiki/Ninkondi_Prime)|Nunchaku|234|-|234|1|-
 [Ceti Lacera](http://warframe.fandom.com/wiki/Ceti_Lacera)|Blade And Whip|233|-|216|1.08|-
-[Vaykor Sydon](http://warframe.fandom.com/wiki/Vaykor_Sydon)|Polearm|230|-|213|1.08|-
 [War](http://warframe.fandom.com/wiki/War)|Heavy Blade|229|-|250|0.92|-
 [Pangolin Prime](http://warframe.fandom.com/wiki/Pangolin_Prime)|Sword|227|-|248|0.92|-
 [Telos Boltace](http://warframe.fandom.com/wiki/Telos_Boltace)|Tonfa|227|-|210|1.08|-
 [Akbolto Prime](http://warframe.fandom.com/wiki/Akbolto_Prime)|Dual Pistols|224|Semi|32|7|40
 [Secura Lecta](http://warframe.fandom.com/wiki/Secura_Lecta)|Whip|220|-|176|1.25|-
 [Fragor Prime](http://warframe.fandom.com/wiki/Fragor_Prime)|Hammer|216|-|270|0.8|-
-[Reaper Prime](http://warframe.fandom.com/wiki/Reaper_Prime)|Scythe|216|-|200|1.08|-
 [Pandero](http://warframe.fandom.com/wiki/Pandero)|Pistol|216|Semi|72|3|8
 [Tatsu](http://warframe.fandom.com/wiki/Tatsu)|Two-Handed Nikana|214|-|214|1|-
+[Hate](http://warframe.fandom.com/wiki/Hate)|Scythe|211|-|230|0.92|-
 [Skiajati](http://warframe.fandom.com/wiki/Skiajati)|Nikana|205|-|175|1.17|-
 [Aklex](http://warframe.fandom.com/wiki/Aklex)|Dual Pistols|205|Semi|130|1.58|12
 [Lanka](http://warframe.fandom.com/wiki/Lanka)|Sniper Rifle|200|Charge|200|1|10
 [Sigma & Octantis](http://warframe.fandom.com/wiki/Sigma_%26_Octantis)|Sword And Shield|188|-|174|1.08|-
-[Dual Kamas Prime](http://warframe.fandom.com/wiki/Dual_Kamas_Prime)|Dual Swords|187|-|160|1.17|-
 [Kuva Tonkor](http://warframe.fandom.com/wiki/Kuva_Tonkor)|Launcher|187|Semi|59|3.17|1
 [Broken War](http://warframe.fandom.com/wiki/Broken_War)|Sword|187|-|187|1|-
 [Jat Kusar](http://warframe.fandom.com/wiki/Jat_Kusar)|Blade And Whip|182|-|218|0.83|-
+[Galatine](http://warframe.fandom.com/wiki/Galatine)|Heavy Blade|182|-|182|1|-
 [Soma Prime](http://warframe.fandom.com/wiki/Soma_Prime)|Rifle|180|Auto|12|15|200
 [Soma](http://warframe.fandom.com/wiki/Soma)|Rifle|180|Auto|12|15|100
 [Dakra Prime](http://warframe.fandom.com/wiki/Dakra_Prime)|Sword|170|-|170|1|-
+[Orthos](http://warframe.fandom.com/wiki/Orthos)|Polearm|170|-|185|0.92|-
 [Guandao](http://warframe.fandom.com/wiki/Guandao)|Polearm|168|-|202|0.83|-
+[Redeemer](http://warframe.fandom.com/wiki/Redeemer)|Gunblade|150|-|180|0.83|-
+[Dual Keres](http://warframe.fandom.com/wiki/Dual_Keres)|Dual Swords|144|-|115|1.25|-
 [Dark Dagger](http://warframe.fandom.com/wiki/Dark_Dagger)|Dagger|141|-|154|0.92|-
 [Venka](http://warframe.fandom.com/wiki/Venka)|Claws|140|-|140|1|-
 [Prisma Dual Cleavers](http://warframe.fandom.com/wiki/Prisma_Dual_Cleavers)|Dual Swords|133|-|133|1|-
 [Hirudo](http://warframe.fandom.com/wiki/Hirudo)|Sparring|130|-|130|1|-
+[Nikana](http://warframe.fandom.com/wiki/Nikana)|Nikana|130|-|142|0.92|-
 [Atterax](http://warframe.fandom.com/wiki/Atterax)|Whip|118|-|129|0.92|-
-[Lecta](http://warframe.fandom.com/wiki/Lecta)|Whip|101|-|101|1|-
 [Sweeper Prime](http://warframe.fandom.com/wiki/Sweeper_Prime)|Shotgun|60|Auto|60|1|20
 [Tazicor](http://warframe.fandom.com/wiki/Tazicor)|Rifle|50|Auto|6|8.33|4
 [Sweeper](http://warframe.fandom.com/wiki/Sweeper)|Shotgun|42|Auto|42|1|10
@@ -405,29 +412,23 @@
 |Weapon | Type | Total DPS | Trigger | Hit Damage | Fire Rate| Magazine|
 --- | --- | --- | --- | --- | --- | ---
 [Tigris Prime](http://warframe.fandom.com/wiki/Tigris_Prime)|Shotgun|3120|Duplex|1560|2|2
-[Sancti Tigris](http://warframe.fandom.com/wiki/Sancti_Tigris)|Shotgun|2520|Duplex|1260|2|2
 [Imperator Vandal](http://warframe.fandom.com/wiki/Imperator_Vandal)|Unknown|1250|Auto|50|25|300
-[Pyrana](http://warframe.fandom.com/wiki/Pyrana)|Shotgun Sidearm|1101|Auto|264|4.17|10
 [Larkspur](http://warframe.fandom.com/wiki/Larkspur)|Unknown|1080|Held|90|12|100
 [Vectis Prime](http://warframe.fandom.com/wiki/Vectis_Prime)|Sniper Rifle|934|Semi|350|2.67|2
-[Imperator](http://warframe.fandom.com/wiki/Imperator)|Unknown|835|Auto|50|16.7|200
 [Rubico](http://warframe.fandom.com/wiki/Rubico)|Sniper Rifle|481|Semi|180|2.67|5
 [Aklex Prime](http://warframe.fandom.com/wiki/Aklex_Prime)|Dual Pistols|400|Semi|150|2.67|16
+[Panthera Prime](http://warframe.fandom.com/wiki/Panthera_Prime)|Rifle|367|Auto|100|3.67|40
 [Akjagara Prime](http://warframe.fandom.com/wiki/Akjagara_Prime)|Dual Pistols|360|Burst|36|10|40
-[Velox](http://warframe.fandom.com/wiki/Velox)|Pistol|360|Auto|24|15.0|62
 [Tiberon Prime](http://warframe.fandom.com/wiki/Tiberon_Prime)|Rifle|339|Burst|46|7.38|42
+[Stahlta](http://warframe.fandom.com/wiki/Stahlta)|Rifle|312|Auto|52|6|40
 [Kuva Chakkhurr](http://warframe.fandom.com/wiki/Kuva_Chakkhurr)|Rifle|304|Semi|260|1.17|11
-[Akstiletto](http://warframe.fandom.com/wiki/Akstiletto)|Dual Pistols|280|Auto|28|10|28
-[Rakta Dark Dagger](http://warframe.fandom.com/wiki/Rakta_Dark_Dagger)|Dagger|246|-|246|1|-
+[Kronen Prime](http://warframe.fandom.com/wiki/Kronen_Prime)|Tonfa|248|-|212|1.17|-
 [Cyanex](http://warframe.fandom.com/wiki/Cyanex)|Pistol|234|Auto|50|4.67|11
 [Atomos](http://warframe.fandom.com/wiki/Atomos)|Pistol|232|Held|29|8|70
+[Reaper Prime](http://warframe.fandom.com/wiki/Reaper_Prime)|Scythe|216|-|200|1.08|-
 [Venka Prime](http://warframe.fandom.com/wiki/Venka_Prime)|Claws|197|-|188|1.05|-
-[Redeemer Prime](http://warframe.fandom.com/wiki/Redeemer_Prime)|Gunblade|194|-|212|0.92|-
 [Pennant](http://warframe.fandom.com/wiki/Pennant)|Two-Handed Nikana|183|-|200|0.92|-
-[Galatine](http://warframe.fandom.com/wiki/Galatine)|Heavy Blade|182|-|182|1|-
 [Shedu](http://warframe.fandom.com/wiki/Shedu)|Arm-Cannon|178|Auto|71|2.5|7
-[Orthos](http://warframe.fandom.com/wiki/Orthos)|Polearm|170|-|185|0.92|-
-[Nikana](http://warframe.fandom.com/wiki/Nikana)|Nikana|130|-|142|0.92|-
 [Kuva Kohm](http://warframe.fandom.com/wiki/Kuva_Kohm)|Shotgun|83|Auto|20|4.17|209
 
 
@@ -453,14 +454,14 @@
 [Veritux](http://warframe.fandom.com/wiki/Veritux)|Unknown|392|-|470|0.83|-
 [Kaszas](http://warframe.fandom.com/wiki/Kaszas)|Unknown|392|-|392|1|-
 [Trumna](http://warframe.fandom.com/wiki/Trumna)|Rifle|383|Auto|82|4.67|200
-[Panthera Prime](http://warframe.fandom.com/wiki/Panthera_Prime)|Rifle|367|Auto|100|3.67|40
-[Stahlta](http://warframe.fandom.com/wiki/Stahlta)|Rifle|312|Auto|52|6|40
 [Galatine Prime](http://warframe.fandom.com/wiki/Galatine_Prime)|Heavy Blade|280|-|280|1|-
 [Ignis Wraith](http://warframe.fandom.com/wiki/Ignis_Wraith)|Rifle|280|Held|35|8|200
+[Vitrica](http://warframe.fandom.com/wiki/Vitrica)|Heavy Blade|277|-|333|0.83|-
 [Orthos Prime](http://warframe.fandom.com/wiki/Orthos_Prime)|Polearm|274|-|234|1.17|-
 [Amprex](http://warframe.fandom.com/wiki/Amprex)|Rifle|264|Held|22|12|100
 [Ignis](http://warframe.fandom.com/wiki/Ignis)|Rifle|264|Held|33|8|150
 [Akstiletto Prime](http://warframe.fandom.com/wiki/Akstiletto_Prime)|Dual Pistols|255|Auto|36|7.08|40
+[Guandao Prime](http://warframe.fandom.com/wiki/Guandao_Prime)|Polearm|240|-|240|1|-
 [Lesion](http://warframe.fandom.com/wiki/Lesion)|Polearm|237|-|237|1|-
 [Karyst Prime](http://warframe.fandom.com/wiki/Karyst_Prime)|Dagger|229|-|344|0.67|-
 [Keratinos](http://warframe.fandom.com/wiki/Keratinos)|Claws|224|-|244|0.92|-
@@ -468,12 +469,14 @@
 [Nikana Prime](http://warframe.fandom.com/wiki/Nikana_Prime)|Nikana|214|-|198|1.08|-
 [Kuva Nukor](http://warframe.fandom.com/wiki/Kuva_Nukor)|Pistol|210|Held|21|10|77
 [Paracesis](http://warframe.fandom.com/wiki/Paracesis)|Heavy Blade|204|-|222|0.92|-
+[Redeemer Prime](http://warframe.fandom.com/wiki/Redeemer_Prime)|Gunblade|194|-|212|0.92|-
 [Quassus](http://warframe.fandom.com/wiki/Quassus)|Warfan|192|-|230|0.83|-
 [Kuva Shildeg](http://warframe.fandom.com/wiki/Kuva_Shildeg)|Hammer|188|-|205|0.92|-
 [Staticor](http://warframe.fandom.com/wiki/Staticor)|Dual Pistols|154|Charge|44|3.5|-
+[Zakti Prime](http://warframe.fandom.com/wiki/Zakti_Prime)|Pistol|150|Semi|30|5.0|8
 [Xoris](http://warframe.fandom.com/wiki/Xoris)|Glaive|140|-|120|1.17|-
 [Sepulcrum](http://warframe.fandom.com/wiki/Sepulcrum)|Pistol|48|Burst|48|1.0|90
 [Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|17
 
 
-__Updated:__ 2020-10-27, 08:20:10 UTC
+__Updated:__ 2020-10-28, 08:20:12 UTC
