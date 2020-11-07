@@ -218,7 +218,6 @@
 [Cobra & Crane](http://warframe.fandom.com/wiki/Cobra_%26_Crane)|Sword And Shield|271|-|296|0.92|-
 [Synoid Simulor](http://warframe.fandom.com/wiki/Synoid_Simulor)|Rifle|266|Active|80|3.33|16
 [Arca Titron](http://warframe.fandom.com/wiki/Arca_Titron)|Hammer|264|-|360|0.73|-
-[Ocucor](http://warframe.fandom.com/wiki/Ocucor)|Pistol|264|Held|22|12|60
 [Braton Vandal](http://warframe.fandom.com/wiki/Braton_Vandal)|Rifle|262|Auto|35|7.5|50
 [Wolf Sledge](http://warframe.fandom.com/wiki/Wolf_Sledge)|Hammer|260|-|260|1|-
 [Caustacyst](http://warframe.fandom.com/wiki/Caustacyst)|Scythe|260|-|260|1|-
@@ -287,6 +286,7 @@
 [Lex](http://warframe.fandom.com/wiki/Lex)|Pistol|140|Semi|130|1.08|6
 [Ferrox](http://warframe.fandom.com/wiki/Ferrox)|Speargun|133|Charge|100|1.33|10
 [Dual Ichor](http://warframe.fandom.com/wiki/Dual_Ichor)|Dual Swords|132|-|122|1.08|-
+[Ocucor](http://warframe.fandom.com/wiki/Ocucor)|Pistol|132|Held|11|12|60
 [Dual Cleavers](http://warframe.fandom.com/wiki/Dual_Cleavers)|Dual Swords|131|-|157|0.83|-
 [Prime Laser Rifle](http://warframe.fandom.com/wiki/Prime_Laser_Rifle)|Rifle|120|Auto|12|10|5
 [Obex](http://warframe.fandom.com/wiki/Obex)|Sparring|120|-|120|1|-
@@ -479,4 +479,4 @@
 [Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|17
 
 
-__Updated:__ 2020-11-06, 08:14:33 UTC
+__Updated:__ 2020-11-07, 08:14:04 UTC
