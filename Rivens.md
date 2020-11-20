@@ -436,6 +436,7 @@
 
 |Weapon | Type | Total DPS | Trigger | Hit Damage | Fire Rate| Magazine|
 --- | --- | --- | --- | --- | --- | ---
+[Bubonico](http://warframe.fandom.com/wiki/Bubonico)|Arm Cannon|1099|Auto|287|3.83|27
 [Fulmin](http://warframe.fandom.com/wiki/Fulmin)|Rifle|1085|Semi|500|2.17|6
 [Cortege](http://warframe.fandom.com/wiki/Cortege)|Unknown|1080|Held|90|12|100
 [Mausolon](http://warframe.fandom.com/wiki/Mausolon)|Unknown|1000|Auto|120|8.33|300
@@ -444,6 +445,7 @@
 [Arca Plasmor](http://warframe.fandom.com/wiki/Arca_Plasmor)|Shotgun|660|Semi|600|1.1|10
 [Kuva Bramma](http://warframe.fandom.com/wiki/Kuva_Bramma)|Bow|559|Charge|839|0.67|1
 [Euphona Prime](http://warframe.fandom.com/wiki/Euphona_Prime)|Shotgun Sidearm|488|Semi|325|1.5|5
+[Sporothrix](http://warframe.fandom.com/wiki/Sporothrix)|Sniper Rifle|468|Semi|256|1.83|9
 [Knux](http://warframe.fandom.com/wiki/Knux)|Unknown|445|-|445|1|-
 [Agkuza](http://warframe.fandom.com/wiki/Agkuza)|Unknown|436|-|436|1|-
 [Acceltra](http://warframe.fandom.com/wiki/Acceltra)|Rifle|420|Auto|35|12|48
@@ -454,10 +456,12 @@
 [Veritux](http://warframe.fandom.com/wiki/Veritux)|Unknown|392|-|470|0.83|-
 [Kaszas](http://warframe.fandom.com/wiki/Kaszas)|Unknown|392|-|392|1|-
 [Trumna](http://warframe.fandom.com/wiki/Trumna)|Rifle|383|Auto|82|4.67|200
+[Arum Spinosa](http://warframe.fandom.com/wiki/Arum_Spinosa)|Warfan|321|-|297|1.08|-
 [Galatine Prime](http://warframe.fandom.com/wiki/Galatine_Prime)|Heavy Blade|280|-|280|1|-
 [Ignis Wraith](http://warframe.fandom.com/wiki/Ignis_Wraith)|Rifle|280|Held|35|8|200
 [Vitrica](http://warframe.fandom.com/wiki/Vitrica)|Heavy Blade|277|-|333|0.83|-
 [Orthos Prime](http://warframe.fandom.com/wiki/Orthos_Prime)|Polearm|274|-|234|1.17|-
+[Pulmonars](http://warframe.fandom.com/wiki/Pulmonars)|Nunchaku|266|-|290|0.92|-
 [Amprex](http://warframe.fandom.com/wiki/Amprex)|Rifle|264|Held|22|12|100
 [Ignis](http://warframe.fandom.com/wiki/Ignis)|Rifle|264|Held|33|8|150
 [Akstiletto Prime](http://warframe.fandom.com/wiki/Akstiletto_Prime)|Dual Pistols|255|Auto|36|7.08|40
@@ -471,12 +475,14 @@
 [Paracesis](http://warframe.fandom.com/wiki/Paracesis)|Heavy Blade|204|-|222|0.92|-
 [Redeemer Prime](http://warframe.fandom.com/wiki/Redeemer_Prime)|Gunblade|194|-|212|0.92|-
 [Quassus](http://warframe.fandom.com/wiki/Quassus)|Warfan|192|-|230|0.83|-
+[Morgha](http://warframe.fandom.com/wiki/Morgha)|Unknown|192|Auto Burst|32|6|50
 [Kuva Shildeg](http://warframe.fandom.com/wiki/Kuva_Shildeg)|Hammer|188|-|205|0.92|-
 [Staticor](http://warframe.fandom.com/wiki/Staticor)|Dual Pistols|154|Charge|44|3.5|-
 [Zakti Prime](http://warframe.fandom.com/wiki/Zakti_Prime)|Pistol|150|Semi|30|5.0|8
 [Xoris](http://warframe.fandom.com/wiki/Xoris)|Glaive|140|-|120|1.17|-
+[Catabolyst](http://warframe.fandom.com/wiki/Catabolyst)|Pistol|53|-|53|1.0|31
 [Sepulcrum](http://warframe.fandom.com/wiki/Sepulcrum)|Pistol|48|Burst|48|1.0|90
 [Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|17
 
 
-__Updated:__ 2020-11-19, 08:13:55 UTC
+__Updated:__ 2020-11-20, 08:14:35 UTC
