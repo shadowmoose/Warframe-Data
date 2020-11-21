@@ -442,10 +442,10 @@
 [Mausolon](http://warframe.fandom.com/wiki/Mausolon)|Unknown|1000|Auto|120|8.33|300
 [Pyrana Prime](http://warframe.fandom.com/wiki/Pyrana_Prime)|Shotgun Sidearm|960|Auto|240|4|12
 [Rubico Prime](http://warframe.fandom.com/wiki/Rubico_Prime)|Sniper Rifle|686|Semi|187|3.67|5
+[Sporothrix](http://warframe.fandom.com/wiki/Sporothrix)|Sniper Rifle|679|Semi|371|1.83|9
 [Arca Plasmor](http://warframe.fandom.com/wiki/Arca_Plasmor)|Shotgun|660|Semi|600|1.1|10
 [Kuva Bramma](http://warframe.fandom.com/wiki/Kuva_Bramma)|Bow|559|Charge|839|0.67|1
 [Euphona Prime](http://warframe.fandom.com/wiki/Euphona_Prime)|Shotgun Sidearm|488|Semi|325|1.5|5
-[Sporothrix](http://warframe.fandom.com/wiki/Sporothrix)|Sniper Rifle|468|Semi|256|1.83|9
 [Knux](http://warframe.fandom.com/wiki/Knux)|Unknown|445|-|445|1|-
 [Agkuza](http://warframe.fandom.com/wiki/Agkuza)|Unknown|436|-|436|1|-
 [Acceltra](http://warframe.fandom.com/wiki/Acceltra)|Rifle|420|Auto|35|12|48
@@ -459,6 +459,7 @@
 [Arum Spinosa](http://warframe.fandom.com/wiki/Arum_Spinosa)|Warfan|321|-|297|1.08|-
 [Galatine Prime](http://warframe.fandom.com/wiki/Galatine_Prime)|Heavy Blade|280|-|280|1|-
 [Ignis Wraith](http://warframe.fandom.com/wiki/Ignis_Wraith)|Rifle|280|Held|35|8|200
+[Proboscis Cernos](http://warframe.fandom.com/wiki/Proboscis_Cernos)|Bow|279|Charge|279|1|1
 [Vitrica](http://warframe.fandom.com/wiki/Vitrica)|Heavy Blade|277|-|333|0.83|-
 [Orthos Prime](http://warframe.fandom.com/wiki/Orthos_Prime)|Polearm|274|-|234|1.17|-
 [Pulmonars](http://warframe.fandom.com/wiki/Pulmonars)|Nunchaku|266|-|290|0.92|-
@@ -485,4 +486,4 @@
 [Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|17
 
 
-__Updated:__ 2020-11-20, 08:14:35 UTC
+__Updated:__ 2020-11-21, 08:13:42 UTC
