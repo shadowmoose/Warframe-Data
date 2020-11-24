@@ -476,7 +476,7 @@
 [Paracesis](http://warframe.fandom.com/wiki/Paracesis)|Heavy Blade|204|-|222|0.92|-
 [Redeemer Prime](http://warframe.fandom.com/wiki/Redeemer_Prime)|Gunblade|194|-|212|0.92|-
 [Quassus](http://warframe.fandom.com/wiki/Quassus)|Warfan|192|-|230|0.83|-
-[Morgha](http://warframe.fandom.com/wiki/Morgha)|Unknown|192|Auto Burst|32|6|50
+[Morgha](http://warframe.fandom.com/wiki/Morgha)|Unknown|192|Auto Burst|32|6|100
 [Kuva Shildeg](http://warframe.fandom.com/wiki/Kuva_Shildeg)|Hammer|188|-|205|0.92|-
 [Staticor](http://warframe.fandom.com/wiki/Staticor)|Dual Pistols|154|Charge|44|3.5|-
 [Zakti Prime](http://warframe.fandom.com/wiki/Zakti_Prime)|Pistol|150|Semi|30|5.0|8
@@ -486,4 +486,4 @@
 [Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|17
 
 
-__Updated:__ 2020-11-23, 08:15:07 UTC
+__Updated:__ 2020-11-24, 08:15:08 UTC
