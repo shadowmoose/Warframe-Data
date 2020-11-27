@@ -300,8 +300,8 @@
 [Skana](http://warframe.fandom.com/wiki/Skana)|Sword|100|-|120|0.83|-
 [Silva & Aegis](http://warframe.fandom.com/wiki/Silva_%26_Aegis)|Sword And Shield|98|-|98|1|-
 [Deconstructor](http://warframe.fandom.com/wiki/Deconstructor)|Glaive|65|-|50|1.3|-
-[Laser Rifle](http://warframe.fandom.com/wiki/Laser_Rifle)|Rifle|54|Auto|8|6.7|5
 [Zarr](http://warframe.fandom.com/wiki/Zarr)|Launcher|42|Semi|25|1.67|3
+[Laser Rifle](http://warframe.fandom.com/wiki/Laser_Rifle)|Rifle|13|Auto|8|1.67|5
 [Vulklok](http://warframe.fandom.com/wiki/Vulklok)|Sniper Rifle|13|Auto|85|0.15|10
 
 
@@ -486,4 +486,4 @@
 [Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|17
 
 
-__Updated:__ 2020-11-26, 08:15:02 UTC
+__Updated:__ 2020-11-27, 08:16:35 UTC
