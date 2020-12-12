@@ -439,6 +439,7 @@
 [Bubonico](http://warframe.fandom.com/wiki/Bubonico)|Arm Cannon|1099|Auto|287|3.83|27
 [Fulmin](http://warframe.fandom.com/wiki/Fulmin)|Rifle|1085|Semi|500|2.17|6
 [Cortege](http://warframe.fandom.com/wiki/Cortege)|Unknown|1080|Held|90|12|100
+[Proboscis Cernos](http://warframe.fandom.com/wiki/Proboscis_Cernos)|Bow|1003|Charge|1003|1|1
 [Mausolon](http://warframe.fandom.com/wiki/Mausolon)|Unknown|1000|Auto|120|8.33|300
 [Pyrana Prime](http://warframe.fandom.com/wiki/Pyrana_Prime)|Shotgun Sidearm|960|Auto|240|4|12
 [Rubico Prime](http://warframe.fandom.com/wiki/Rubico_Prime)|Sniper Rifle|686|Semi|187|3.67|5
@@ -459,7 +460,6 @@
 [Arum Spinosa](http://warframe.fandom.com/wiki/Arum_Spinosa)|Warfan|321|-|297|1.08|-
 [Galatine Prime](http://warframe.fandom.com/wiki/Galatine_Prime)|Heavy Blade|280|-|280|1|-
 [Ignis Wraith](http://warframe.fandom.com/wiki/Ignis_Wraith)|Rifle|280|Held|35|8|200
-[Proboscis Cernos](http://warframe.fandom.com/wiki/Proboscis_Cernos)|Bow|279|Charge|279|1|1
 [Vitrica](http://warframe.fandom.com/wiki/Vitrica)|Heavy Blade|277|-|333|0.83|-
 [Orthos Prime](http://warframe.fandom.com/wiki/Orthos_Prime)|Polearm|274|-|234|1.17|-
 [Pulmonars](http://warframe.fandom.com/wiki/Pulmonars)|Nunchaku|266|-|290|0.92|-
@@ -481,9 +481,9 @@
 [Staticor](http://warframe.fandom.com/wiki/Staticor)|Dual Pistols|154|Charge|44|3.5|-
 [Zakti Prime](http://warframe.fandom.com/wiki/Zakti_Prime)|Pistol|150|Semi|30|5.0|8
 [Xoris](http://warframe.fandom.com/wiki/Xoris)|Glaive|140|-|120|1.17|-
-[Catabolyst](http://warframe.fandom.com/wiki/Catabolyst)|Pistol|53|-|53|1.0|31
+[Catabolyst](http://warframe.fandom.com/wiki/Catabolyst)|Pistol|53|Held|53|1.0|31
 [Sepulcrum](http://warframe.fandom.com/wiki/Sepulcrum)|Pistol|48|Burst|48|1.0|90
 [Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|17
 
 
-__Updated:__ 2020-12-11, 08:19:00 UTC
+__Updated:__ 2020-12-12, 08:18:30 UTC
