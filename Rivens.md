@@ -486,4 +486,4 @@
 [Zymos](http://warframe.fandom.com/wiki/Zymos)|Pistol|31|Semi|23|1.33|17
 
 
-__Updated:__ 2020-12-30, 08:24:11 UTC
+__Updated:__ 2020-12-31, 08:27:40 UTC
