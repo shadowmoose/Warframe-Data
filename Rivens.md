@@ -487,4 +487,4 @@
 [Knux](http://warframe.fandom.com/wiki/Knux)|Unknown|0|-|445|1|-
 
 
-__Updated:__ 2021-10-28, 08:09:54 UTC
+__Updated:__ 2021-10-29, 08:05:25 UTC
